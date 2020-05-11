@@ -44,7 +44,7 @@ class PeopleTable extends React.Component {
                         ageValue={this.state.age}
                         clearTable={this.clearTable}
                     />
-                    <table className="table table-striped table-bordered table-hover">
+                    <table className="table  table-bordered table-hover">
                         <thead>
                             <tr>
                                 <th>First Name</th>
